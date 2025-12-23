@@ -1,0 +1,16 @@
+# --- Configuración y Variables de Entorno ---
+python-dotenv
+
+# --- Bases de Datos SQL ---
+mysql-connector-python
+psycopg2-binary
+
+# --- Bases de Datos NoSQL y Cloud ---
+redis
+pymongo
+boto3
+
+# --- Inteligencia Artificial y ML ---
+transformers
+torch
+tf-keras

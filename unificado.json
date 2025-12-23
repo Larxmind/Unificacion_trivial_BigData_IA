@@ -1,0 +1,5852 @@
+[
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es el ocÃ©ano mÃ¡s grande del mundo?",
+        "opciones": [
+            "AtlÃ¡ntico",
+            "Ãndico",
+            "PacÃ­fico",
+            "Ãrtico"
+        ],
+        "respuesta_correcta": "PACÃ­FICO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© paÃ­s tiene forma de bota?",
+        "opciones": [
+            "Grecia",
+            "EspaÃ±a",
+            "Italia",
+            "Portugal"
+        ],
+        "respuesta_correcta": "ITALIA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es la capital de Islandia?",
+        "opciones": [
+            "Oslo",
+            "Reikiavik",
+            "Helsinki",
+            "Estocolmo"
+        ],
+        "respuesta_correcta": "REIKIAVIK",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿En quÃ© paÃ­s se encuentra el Monte Kilimanjaro?",
+        "opciones": [
+            "Kenia",
+            "EtiopÃ­a",
+            "Tanzania",
+            "Uganda"
+        ],
+        "respuesta_correcta": "TANZANIA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es el paÃ­s mÃ¡s poblado de Ãfrica?",
+        "opciones": [
+            "Egipto",
+            "Nigeria",
+            "SudÃ¡frica",
+            "Argelia"
+        ],
+        "respuesta_correcta": "NIGERIA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© estrecho separa EspaÃ±a de Marruecos?",
+        "opciones": [
+            "Magallanes",
+            "Gibraltar",
+            "BÃ³sforo",
+            "Bering"
+        ],
+        "respuesta_correcta": "GIBRALTAR",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es el pico mÃ¡s alto de los Pirineos?",
+        "opciones": [
+            "MulhacÃ©n",
+            "Teide",
+            "Aneto",
+            "Pico Posets"
+        ],
+        "respuesta_correcta": "ANETO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿En quÃ© paÃ­s se encuentra la ciudad de Petra?",
+        "opciones": [
+            "Egipto",
+            "Jordania",
+            "Siria",
+            "Irak"
+        ],
+        "respuesta_correcta": "JORDANIA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© rÃ­o es el mÃ¡s largo de Europa?",
+        "opciones": [
+            "Danubio",
+            "Rin",
+            "Volga",
+            "Sena"
+        ],
+        "respuesta_correcta": "VOLGA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es la capital de CanadÃ¡?",
+        "opciones": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ],
+        "respuesta_correcta": "OTTAWA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es el desierto mÃ¡s cÃ¡lido del mundo?",
+        "opciones": [
+            "Gobi",
+            "Atacama",
+            "Sahara",
+            "Kalahari"
+        ],
+        "respuesta_correcta": "SAHARA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿A quÃ© paÃ­s pertenecen las Islas GalÃ¡pagos?",
+        "opciones": [
+            "Colombia",
+            "PerÃº",
+            "Ecuador",
+            "Chile"
+        ],
+        "respuesta_correcta": "ECUADOR",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© paÃ­s tiene mÃ¡s islas en el mundo?",
+        "opciones": [
+            "Filipinas",
+            "Indonesia",
+            "Suecia",
+            "Grecia"
+        ],
+        "respuesta_correcta": "SUECIA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es la capital de TurquÃ­a?",
+        "opciones": [
+            "Estambul",
+            "Ankara",
+            "Esmirna",
+            "Antalya"
+        ],
+        "respuesta_correcta": "ANKARA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿En quÃ© continente estÃ¡ Surinam?",
+        "opciones": [
+            "Ãfrica",
+            "Asia",
+            "AmÃ©rica del Sur",
+            "OceanÃ­a"
+        ],
+        "respuesta_correcta": "AMÃ©RICA DEL SUR",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© paÃ­s es conocido como el paÃ­s del sol naciente?",
+        "opciones": [
+            "China",
+            "Corea del Sur",
+            "JapÃ³n",
+            "Tailandia"
+        ],
+        "respuesta_correcta": "JAPÃ³N",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es el lago mÃ¡s profundo del mundo?",
+        "opciones": [
+            "Victoria",
+            "Superior",
+            "Baikal",
+            "Titicaca"
+        ],
+        "respuesta_correcta": "BAIKAL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© ciudad es la capital de Suiza?",
+        "opciones": [
+            "ZÃºrich",
+            "Ginebra",
+            "Berna",
+            "Basilea"
+        ],
+        "respuesta_correcta": "BERNA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es el punto mÃ¡s bajo de la Tierra (en tierra firme)?",
+        "opciones": [
+            "Valle de la Muerte",
+            "Mar Muerto",
+            "Fosa de las Marianas",
+            "DepresiÃ³n de Afar"
+        ],
+        "respuesta_correcta": "MAR MUERTO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© paÃ­s tiene la mayor superficie de selva amazÃ³nica?",
+        "opciones": [
+            "Colombia",
+            "PerÃº",
+            "Brasil",
+            "Venezuela"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es la capital de Marruecos?",
+        "opciones": [
+            "Casablanca",
+            "Marrakech",
+            "Rabat",
+            "Fez"
+        ],
+        "respuesta_correcta": "RABAT",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿En quÃ© paÃ­s se encuentra el Salto del Ãngel?",
+        "opciones": [
+            "Brasil",
+            "Guyana",
+            "Venezuela",
+            "Ecuador"
+        ],
+        "respuesta_correcta": "VENEZUELA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© paÃ­s europeo tiene mÃ¡s volcanes activos?",
+        "opciones": [
+            "Italia",
+            "Grecia",
+            "Islandia",
+            "EspaÃ±a"
+        ],
+        "respuesta_correcta": "ISLANDIA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es la capital de Portugal?",
+        "opciones": [
+            "Oporto",
+            "CoÃ­mbra",
+            "Lisboa",
+            "Faro"
+        ],
+        "respuesta_correcta": "LISBOA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© cordillera separa Europa de Asia?",
+        "opciones": [
+            "Alpes",
+            "CÃ¡ucaso",
+            "Montes Urales",
+            "Himalaya"
+        ],
+        "respuesta_correcta": "MONTES URALES",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡ntos minutos dura un partido de fÃºtbol oficial (sin descuento)?",
+        "opciones": [
+            "80",
+            "90",
+            "100",
+            "45"
+        ],
+        "respuesta_correcta": "90",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© tenista ha ganado mÃ¡s torneos de Roland Garros?",
+        "opciones": [
+            "Roger Federer",
+            "Novak Djokovic",
+            "Rafael Nadal",
+            "BjÃ¶rn Borg"
+        ],
+        "respuesta_correcta": "RAFAEL NADAL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿En quÃ© ciudad juegan los Lakers de la NBA?",
+        "opciones": [
+            "Chicago",
+            "Miami",
+            "Los Ãngeles",
+            "Nueva York"
+        ],
+        "respuesta_correcta": "LOS ÃNGELES",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© paÃ­s ganÃ³ el primer Mundial de FÃºtbol en 1930?",
+        "opciones": [
+            "Brasil",
+            "Argentina",
+            "Uruguay",
+            "Italia"
+        ],
+        "respuesta_correcta": "URUGUAY",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿A quÃ© distancia se encuentra el punto de penalti en fÃºtbol?",
+        "opciones": [
+            "9 metros",
+            "10 metros",
+            "11 metros",
+            "12 metros"
+        ],
+        "respuesta_correcta": "11 METROS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuiÃ©n es el mÃ¡ximo goleador histÃ³rico de los Mundiales?",
+        "opciones": [
+            "PelÃ©",
+            "Ronaldo NazÃ¡rio",
+            "Miroslav Klose",
+            "Lionel Messi"
+        ],
+        "respuesta_correcta": "MIROSLAV KLOSE",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡ntos anillos de la NBA ganÃ³ Michael Jordan?",
+        "opciones": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "respuesta_correcta": "6",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿En quÃ© aÃ±o se celebraron los Juegos OlÃ­mpicos de Barcelona?",
+        "opciones": [
+            "1988",
+            "1992",
+            "1996",
+            "2000"
+        ],
+        "respuesta_correcta": "1992",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© selecciÃ³n de fÃºtbol es conocida como \"La Naranja MecÃ¡nica\"?",
+        "opciones": [
+            "Alemania",
+            "BÃ©lgica",
+            "PaÃ­ses Bajos",
+            "EspaÃ±a"
+        ],
+        "respuesta_correcta": "PAÃ­SES BAJOS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CÃ³mo se llama el estilo de nataciÃ³n mÃ¡s lento?",
+        "opciones": [
+            "Crol",
+            "Mariposa",
+            "Braza (Pecho)",
+            "Espalda"
+        ],
+        "respuesta_correcta": "BRAZA (PECHO)",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuiÃ©n ostenta el rÃ©cord mundial de 100 metros lisos?",
+        "opciones": [
+            "Carl Lewis",
+            "Tyson Gay",
+            "Usain Bolt",
+            "Yohan Blake"
+        ],
+        "respuesta_correcta": "USAIN BOLT",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es el equipo con mÃ¡s Champions League?",
+        "opciones": [
+            "AC Milan",
+            "Liverpool",
+            "Real Madrid",
+            "Bayern Munich"
+        ],
+        "respuesta_correcta": "REAL MADRID",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡nto dura un asalto en el boxeo profesional masculino?",
+        "opciones": [
+            "2 minutos",
+            "3 minutos",
+            "4 minutos",
+            "5 minutos"
+        ],
+        "respuesta_correcta": "3 MINUTOS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿En quÃ© ciudad se encuentra el circuito de Interlagos de F1?",
+        "opciones": [
+            "Madrid",
+            "Ciudad de MÃ©xico",
+            "SÃ£o Paulo",
+            "MÃ³naco"
+        ],
+        "respuesta_correcta": "SÃ£O PAULO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuiÃ©n fue el primer ciclista en ganar 5 Tours de Francia?",
+        "opciones": [
+            "Eddy Merckx",
+            "Jacques Anquetil",
+            "Miguel IndurÃ¡in",
+            "Bernard Hinault"
+        ],
+        "respuesta_correcta": "JACQUES ANQUETIL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© deporte practica Tiger Woods?",
+        "opciones": [
+            "Tenis",
+            "Baloncesto",
+            "Golf",
+            "Rugby"
+        ],
+        "respuesta_correcta": "GOLF",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡ntos puntos vale un tiro libre en baloncesto?",
+        "opciones": [
+            "1",
+            "2",
+            "3",
+            "0"
+        ],
+        "respuesta_correcta": "1",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es el Grand Slam que se juega sobre hierba?",
+        "opciones": [
+            "US Open",
+            "Open de Australia",
+            "Wimbledon",
+            "Roland Garros"
+        ],
+        "respuesta_correcta": "WIMBLEDON",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© paÃ­s ha ganado mÃ¡s mundiales de fÃºtbol masculino?",
+        "opciones": [
+            "Alemania",
+            "Italia",
+            "Brasil",
+            "Argentina"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CÃ³mo se llama el jugador de fÃºtbol americano que lanza el balÃ³n?",
+        "opciones": [
+            "Linebacker",
+            "Quarterback",
+            "Wide Receiver",
+            "Fullback"
+        ],
+        "respuesta_correcta": "QUARTERBACK",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿De quÃ© paÃ­s es el piloto Max Verstappen?",
+        "opciones": [
+            "Alemania",
+            "BÃ©lgica",
+            "PaÃ­ses Bajos",
+            "Austria"
+        ],
+        "respuesta_correcta": "PAÃ­SES BAJOS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© ciudad albergarÃ¡ los JJOO de 2024 (o los Ãºltimos celebrados)?",
+        "opciones": [
+            "Londres",
+            "Tokio",
+            "ParÃ­s",
+            "Los Ãngeles"
+        ],
+        "respuesta_correcta": "PARÃ­S",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿CuÃ¡l es la distancia de una maratÃ³n?",
+        "opciones": [
+            "40 km",
+            "42,195 km",
+            "45 km",
+            "21 km"
+        ],
+        "respuesta_correcta": "42,195 KM",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuiÃ©n ganÃ³ el Mundial de FÃºtbol de 2010?",
+        "opciones": [
+            "Holanda",
+            "Alemania",
+            "EspaÃ±a",
+            "Brasil"
+        ],
+        "respuesta_correcta": "ESPAÃ±A",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MySQL",
+        "pregunta": "Â¿QuÃ© nÃºmero llevaba Kobe Bryant en sus inicios en los Lakers?",
+        "opciones": [
+            "24",
+            "23",
+            "8",
+            "10"
+        ],
+        "respuesta_correcta": "8",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó la 'Mona Lisa'?",
+        "opciones": [
+            "Leonardo da Vinci",
+            "Miguel Ángel",
+            "Rafael",
+            "Donatello"
+        ],
+        "respuesta_correcta": "LEONARDO DA VINCI",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó el techo de la Capilla Sixtina?",
+        "opciones": [
+            "Miguel Ángel",
+            "Da Vinci",
+            "Botticelli",
+            "Tiziano"
+        ],
+        "respuesta_correcta": "MIGUEL ÁNGEL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'El nacimiento de Venus'?",
+        "opciones": [
+            "Botticelli",
+            "Rafael",
+            "Donatello",
+            "Fra Angelico"
+        ],
+        "respuesta_correcta": "BOTTICELLI",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Qué artista es famoso por sus esculturas de mármol como 'El David'?",
+        "opciones": [
+            "Miguel Ángel",
+            "Bernini",
+            "Canova",
+            "Donatello"
+        ],
+        "respuesta_correcta": "MIGUEL ÁNGEL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'La escuela de Atenas'?",
+        "opciones": [
+            "Rafael",
+            "Da Vinci",
+            "Miguel Ángel",
+            "Bramante"
+        ],
+        "respuesta_correcta": "RAFAEL",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿En qué siglo vivió el pintor El Greco?",
+        "opciones": [
+            "Siglo XVI",
+            "Siglo XVIII",
+            "Siglo XIV",
+            "Siglo XX"
+        ],
+        "respuesta_correcta": "SIGLO XVI",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'La última cena'?",
+        "opciones": [
+            "Leonardo da Vinci",
+            "Rembrandt",
+            "Caravaggio",
+            "Velázquez"
+        ],
+        "respuesta_correcta": "LEONARDO DA VINCI",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién diseñó la cúpula de la Catedral de Florencia?",
+        "opciones": [
+            "Brunelleschi",
+            "Alberti",
+            "Bramante",
+            "Vasari"
+        ],
+        "respuesta_correcta": "BRUNELLESCHI",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Qué técnica usaba puntitos de color para formar imágenes?",
+        "opciones": [
+            "Puntillismo",
+            "Cubismo",
+            "Fovismo",
+            "Óleo"
+        ],
+        "respuesta_correcta": "PUNTILLISMO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'La joven de la perla'?",
+        "opciones": [
+            "Johannes Vermeer",
+            "Rembrandt",
+            "Rubens",
+            "Van Dyck"
+        ],
+        "respuesta_correcta": "JOHANNES VERMEER",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'Las Meninas'?",
+        "opciones": [
+            "Diego Velázquez",
+            "Goya",
+            "El Greco",
+            "Murillo"
+        ],
+        "respuesta_correcta": "DIEGO VELÁZQUEZ",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Qué estilo artístico se caracteriza por el uso dramático del claroscuro?",
+        "opciones": [
+            "Barroco",
+            "Rococó",
+            "Gótico",
+            "Neoclásico"
+        ],
+        "respuesta_correcta": "BARROCO",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'La ronda de noche'?",
+        "opciones": [
+            "Rembrandt",
+            "Vermeer",
+            "Hals",
+            "Rubens"
+        ],
+        "respuesta_correcta": "REMBRANDT",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién es el autor de 'El jardín de las delicias'?",
+        "opciones": [
+            "El Bosco",
+            "Brueghel",
+            "Durero",
+            "Van Eyck"
+        ],
+        "respuesta_correcta": "EL BOSCO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién esculpió el 'Éxtasis de Santa Teresa'?",
+        "opciones": [
+            "Bernini",
+            "Borromini",
+            "Algardi",
+            "Canova"
+        ],
+        "respuesta_correcta": "BERNINI",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿En qué ciudad se encuentra el Museo del Prado?",
+        "opciones": [
+            "Madrid",
+            "Barcelona",
+            "Sevilla",
+            "Bilbao"
+        ],
+        "respuesta_correcta": "MADRID",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Qué país es la cuna del Renacimiento?",
+        "opciones": [
+            "Italia",
+            "Francia",
+            "España",
+            "Grecia"
+        ],
+        "respuesta_correcta": "ITALIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'La maja desnuda'?",
+        "opciones": [
+            "Francisco de Goya",
+            "Velázquez",
+            "Picasso",
+            "Sorolla"
+        ],
+        "respuesta_correcta": "FRANCISCO DE GOYA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'El caballero de la mano en el pecho'?",
+        "opciones": [
+            "El Greco",
+            "Velázquez",
+            "Zurbarán",
+            "Murillo"
+        ],
+        "respuesta_correcta": "EL GRECO",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'La libertad guiando al pueblo'?",
+        "opciones": [
+            "Eugène Delacroix",
+            "Géricault",
+            "Ingres",
+            "David"
+        ],
+        "respuesta_correcta": "EUGÈNE DELACROIX",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'La noche estrellada'?",
+        "opciones": [
+            "Vincent van Gogh",
+            "Claude Monet",
+            "Paul Cézanne",
+            "Edvard Munch"
+        ],
+        "respuesta_correcta": "VINCENT VAN GOGH",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién es considerado el padre del Impresionismo?",
+        "opciones": [
+            "Claude Monet",
+            "Edouard Manet",
+            "Renoir",
+            "Degas"
+        ],
+        "respuesta_correcta": "CLAUDE MONET",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Qué artista se cortó una oreja?",
+        "opciones": [
+            "Van Gogh",
+            "Gauguin",
+            "Toulouse-Lautrec",
+            "Modigliani"
+        ],
+        "respuesta_correcta": "VAN GOGH",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'El beso'?",
+        "opciones": [
+            "Gustav Klimt",
+            "Egon Schiele",
+            "Oskar Kokoschka",
+            "Munch"
+        ],
+        "respuesta_correcta": "GUSTAV KLIMT",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'Un domingo por la tarde en la isla de la Grande Jatte'?",
+        "opciones": [
+            "Georges Seurat",
+            "Paul Signac",
+            "Pissarro",
+            "Sisley"
+        ],
+        "respuesta_correcta": "GEORGES SEURAT",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿En qué ciudad vivió y pintó mucho tiempo Toulouse-Lautrec?",
+        "opciones": [
+            "París",
+            "Londres",
+            "Viena",
+            "Bruselas"
+        ],
+        "respuesta_correcta": "PARÍS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'Los comedores de patatas'?",
+        "opciones": [
+            "Vincent van Gogh",
+            "Jean-François Millet",
+            "Courbet",
+            "Daumier"
+        ],
+        "respuesta_correcta": "VINCENT VAN GOGH",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'Impresión, sol naciente'?",
+        "opciones": [
+            "Claude Monet",
+            "Pissarro",
+            "Sisley",
+            "Renoir"
+        ],
+        "respuesta_correcta": "CLAUDE MONET",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién esculpió 'El pensador'?",
+        "opciones": [
+            "Auguste Rodin",
+            "Camille Claudel",
+            "Bourdelle",
+            "Maillol"
+        ],
+        "respuesta_correcta": "AUGUSTE RODIN",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Cuál de estos es un color primario?",
+        "opciones": [
+            "Azul",
+            "Verde",
+            "Naranja",
+            "Violeta"
+        ],
+        "respuesta_correcta": "AZUL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó el 'Guernica'?",
+        "opciones": [
+            "Pablo Picasso",
+            "Salvador Dalí",
+            "Joan Miró",
+            "Juan Gris"
+        ],
+        "respuesta_correcta": "PABLO PICASSO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'La persistencia de la memoria'?",
+        "opciones": [
+            "Salvador Dalí",
+            "René Magritte",
+            "Max Ernst",
+            "Frida Kahlo"
+        ],
+        "respuesta_correcta": "SALVADOR DALÍ",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'Las dos Fridas'?",
+        "opciones": [
+            "Frida Kahlo",
+            "Diego Rivera",
+            "Remedios Varo",
+            "Leonora Carrington"
+        ],
+        "respuesta_correcta": "FRIDA KAHLO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Qué estilo fundó Picasso junto a Georges Braque?",
+        "opciones": [
+            "Cubismo",
+            "Surrealismo",
+            "Expresionismo",
+            "Fovismo"
+        ],
+        "respuesta_correcta": "CUBISMO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'El hijo del hombre' (el hombre con la manzana en la cara)?",
+        "opciones": [
+            "René Magritte",
+            "Dalí",
+            "Miró",
+            "Chagall"
+        ],
+        "respuesta_correcta": "RENÉ MAGRITTE",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién es famoso por sus pinturas de gotas y salpicaduras (Action Painting)?",
+        "opciones": [
+            "Jackson Pollock",
+            "Mark Rothko",
+            "Willem de Kooning",
+            "Andy Warhol"
+        ],
+        "respuesta_correcta": "JACKSON POLLOCK",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó las famosas latas de sopa Campbell?",
+        "opciones": [
+            "Andy Warhol",
+            "Roy Lichtenstein",
+            "Jasper Johns",
+            "Keith Haring"
+        ],
+        "respuesta_correcta": "ANDY WARHOL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'Composición en rojo, azul y amarillo'?",
+        "opciones": [
+            "Piet Mondrian",
+            "Kandinsky",
+            "Malevich",
+            "Klee"
+        ],
+        "respuesta_correcta": "PIET MONDRIAN",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién diseñó la Sagrada Familia en Barcelona?",
+        "opciones": [
+            "Antoni Gaudí",
+            "Le Corbusier",
+            "Mies van der Rohe",
+            "Frank Gehry"
+        ],
+        "respuesta_correcta": "ANTONI GAUDÍ",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'El grito'?",
+        "opciones": [
+            "Edvard Munch",
+            "Ensor",
+            "Nolde",
+            "Kandinsky"
+        ],
+        "respuesta_correcta": "EDVARD MUNCH",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿En qué ciudad se encuentra el Museo Guggenheim diseñado por Frank Gehry?",
+        "opciones": [
+            "Bilbao",
+            "Nueva York",
+            "Venecia",
+            "Berlín"
+        ],
+        "respuesta_correcta": "BILBAO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿En qué museo se encuentra la 'Mona Lisa'?",
+        "opciones": [
+            "Louvre",
+            "British Museum",
+            "Metropolitan",
+            "Hermitage"
+        ],
+        "respuesta_correcta": "LOUVRE",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó la 'Capilla Sixtina'?",
+        "opciones": [
+            "Miguel Ángel",
+            "Rafael",
+            "Da Vinci",
+            "Perugino"
+        ],
+        "respuesta_correcta": "MIGUEL ÁNGEL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Cómo se llama la Venus de Milo por la isla donde fue encontrada?",
+        "opciones": [
+            "La isla de Milo",
+            "Su escultor Milo",
+            "La ciudad de Milo",
+            "El rey Milo"
+        ],
+        "respuesta_correcta": "LA ISLA DE MILO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'American Gothic'?",
+        "opciones": [
+            "Grant Wood",
+            "Edward Hopper",
+            "Norman Rockwell",
+            "Andrew Wyeth"
+        ],
+        "respuesta_correcta": "GRANT WOOD",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'La traición de las imágenes' ('Esto no es una pipa')?",
+        "opciones": [
+            "René Magritte",
+            "Marcel Duchamp",
+            "Francis Picabia",
+            "Man Ray"
+        ],
+        "respuesta_correcta": "RENÉ MAGRITTE",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'Nighthawks' (Halcones de la noche)?",
+        "opciones": [
+            "Edward Hopper",
+            "Grant Wood",
+            "George Bellows",
+            "Thomas Hart Benton"
+        ],
+        "respuesta_correcta": "EDWARD HOPPER",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Qué artista es conocido por sus figuras de proporciones exageradamente gruesas?",
+        "opciones": [
+            "Fernando Botero",
+            "Picasso",
+            "Henry Moore",
+            "Giacometti"
+        ],
+        "respuesta_correcta": "FERNANDO BOTERO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Qué animal aparece en el cuadro 'La dama del armiño'?",
+        "opciones": [
+            "Un armiño",
+            "Un perro",
+            "Un gato",
+            "Un conejo"
+        ],
+        "respuesta_correcta": "UN ARMIÑO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "MongoDB (Arte)",
+        "pregunta": "¿Quién pintó 'El entierro del Conde de Orgaz'?",
+        "opciones": [
+            "El Greco",
+            "Velázquez",
+            "Goya",
+            "Zurbarán"
+        ],
+        "respuesta_correcta": "EL GRECO",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién fue la última reina de la dinastía ptolemaica?",
+        "opciones": [
+            "Nefertiti",
+            "Cleopatra VII",
+            "Hatshepsut",
+            "Isis"
+        ],
+        "respuesta_correcta": "CLEOPATRA VII",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué conquistador macedonio llegó hasta la India?",
+        "opciones": [
+            "Julio César",
+            "Alejandro Magno",
+            "Ciro",
+            "Darío I"
+        ],
+        "respuesta_correcta": "ALEJANDRO MAGNO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Cuál fue el imperio liderado por Gengis Kan?",
+        "opciones": [
+            "Imperio Chino",
+            "Imperio Otomano",
+            "Imperio Mongol",
+            "Persa"
+        ],
+        "respuesta_correcta": "IMPERIO MONGOL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿En qué película sale Bubba y una fábrica de gambas?",
+        "opciones": [
+            "Big",
+            "Forrest Gump",
+            "Náufrago",
+            "Apollo 13"
+        ],
+        "respuesta_correcta": "FORREST GUMP",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Dónde vive Simba en 'El Rey León'?",
+        "opciones": [
+            "Selva Negra",
+            "Tierras del Orgullo",
+            "Roca",
+            "Sabana"
+        ],
+        "respuesta_correcta": "TIERRAS DEL ORGULLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién escribió el 'Manifiesto Comunista' con Engels?",
+        "opciones": [
+            "Adam Smith",
+            "Karl Marx",
+            "Lenin",
+            "Bakunin"
+        ],
+        "respuesta_correcta": "KARL MARX",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué película presenta al payaso Pennywise?",
+        "opciones": [
+            "Saw",
+            "It",
+            "The Conjuring",
+            "Poltergeist"
+        ],
+        "respuesta_correcta": "IT",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+        "opciones": [
+            "Tordesillas",
+            "Utrecht",
+            "Versalles",
+            "Varsovia"
+        ],
+        "respuesta_correcta": "TRATADO DE VERSALLES",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué actor fue el Joker en 'The Dark Knight'?",
+        "opciones": [
+            "Nicholson",
+            "Jared Leto",
+            "Heath Ledger",
+            "Phoenix"
+        ],
+        "respuesta_correcta": "HEATH LEDGER",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Cómo se llamaba el barco de Charles Darwin?",
+        "opciones": [
+            "HMS Victory",
+            "HMS Beagle",
+            "Santa María",
+            "Endeavour"
+        ],
+        "respuesta_correcta": "HMS BEAGLE",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué película ganó el primer Oscar en 1929?",
+        "opciones": [
+            "Wings",
+            "Metropolis",
+            "The Jazz Singer",
+            "Sunrise"
+        ],
+        "respuesta_correcta": "WINGS",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién dio voz al Genio en Aladdín (1992)?",
+        "opciones": [
+            "Tom Hanks",
+            "Robin Williams",
+            "Murphy",
+            "Danny DeVito"
+        ],
+        "respuesta_correcta": "ROBIN WILLIAMS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿En qué año llegó el hombre a la Luna?",
+        "opciones": [
+            "1965",
+            "1969",
+            "1972",
+            "1959"
+        ],
+        "respuesta_correcta": "1969",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
+        "opciones": [
+            "395",
+            "476",
+            "1453",
+            "1000"
+        ],
+        "respuesta_correcta": "476",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién dirigió 'El Padrino'?",
+        "opciones": [
+            "Scorsese",
+            "Coppola",
+            "De Palma",
+            "Spielberg"
+        ],
+        "respuesta_correcta": "FRANCIS FORD COPPOLA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "opciones": [
+            "1914",
+            "1939",
+            "1945",
+            "1936"
+        ],
+        "respuesta_correcta": "1939",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién dirigió 'Jurassic Park'?",
+        "opciones": [
+            "Lucas",
+            "Spielberg",
+            "Scott",
+            "Cameron"
+        ],
+        "respuesta_correcta": "STEVEN SPIELBERG",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué película de Disney trata de la familia Madrigal?",
+        "opciones": [
+            "Coco",
+            "Encanto",
+            "Moana",
+            "Raya"
+        ],
+        "respuesta_correcta": "ENCANTO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Cuál era la capital del Imperio Bizantino?",
+        "opciones": [
+            "Roma",
+            "Atenas",
+            "Constantinopla",
+            "Viena"
+        ],
+        "respuesta_correcta": "CONSTANTINOPLA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué ruta comercial unía China con Europa?",
+        "opciones": [
+            "Ruta Especias",
+            "Ruta de la Seda",
+            "Camino Real",
+            "Senda"
+        ],
+        "respuesta_correcta": "RUTA DE LA SEDA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué filósofo fue maestro de Alejandro Magno?",
+        "opciones": [
+            "Platón",
+            "Sócrates",
+            "Aristóteles",
+            "Epicuro"
+        ],
+        "respuesta_correcta": "ARISTÓTELES",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Cuál es la ciudad que protege Batman?",
+        "opciones": [
+            "Metropolis",
+            "Central City",
+            "Gotham City",
+            "Star City"
+        ],
+        "respuesta_correcta": "GOTHAM CITY",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Cuál es el nombre del robot en Wall-E?",
+        "opciones": [
+            "EVE",
+            "Wall-E",
+            "R2-D2",
+            "Bender"
+        ],
+        "respuesta_correcta": "WALL-E",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Cuál es la película más taquillera (sin inflación)?",
+        "opciones": [
+            "Titanic",
+            "Endgame",
+            "Avatar",
+            "Star Wars VII"
+        ],
+        "respuesta_correcta": "AVATAR",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién era el rey durante la Revolución Francesa?",
+        "opciones": [
+            "Luis XIV",
+            "Luis XV",
+            "Luis XVI",
+            "Napoleón"
+        ],
+        "respuesta_correcta": "LUIS XVI",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Cuál fue el primer largometraje de Pixar?",
+        "opciones": [
+            "Bugs Life",
+            "Toy Story",
+            "Monsters Inc",
+            "Nemo"
+        ],
+        "respuesta_correcta": "TOY STORY",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué actriz dio vida a Hermione Granger?",
+        "opciones": [
+            "Emma Roberts",
+            "Emma Stone",
+            "Emma Watson",
+            "Bonnie Wright"
+        ],
+        "respuesta_correcta": "EMMA WATSON",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué cultura inventó la escritura cuneiforme?",
+        "opciones": [
+            "Egipcia",
+            "Sumeria",
+            "Fenicia",
+            "Griega"
+        ],
+        "respuesta_correcta": "SUMERIA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Cómo se llama el hobbit protagonista de ESDLA?",
+        "opciones": [
+            "Sam",
+            "Frodo Bolsón",
+            "Bilbo",
+            "Pippin"
+        ],
+        "respuesta_correcta": "FRODO BOLSÓN",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién interpretó a Jack Sparrow?",
+        "opciones": [
+            "Brad Pitt",
+            "Johnny Depp",
+            "Orlando Bloom",
+            "Tom Cruise"
+        ],
+        "respuesta_correcta": "JOHNNY DEPP",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué muro dividió Berlín de 1961 a 1989?",
+        "opciones": [
+            "Muro Paz",
+            "Muro de Berlín",
+            "Muro Hierro",
+            "Malla"
+        ],
+        "respuesta_correcta": "MURO DE BERLÍN",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué reina gobernó Inglaterra durante 63 años en el siglo XIX?",
+        "opciones": [
+            "Isabel I",
+            "Victoria",
+            "Ana",
+            "Isabel II"
+        ],
+        "respuesta_correcta": "VICTORIA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién dirigió 'Pulp Fiction'?",
+        "opciones": [
+            "Spielberg",
+            "Tarantino",
+            "Scorsese",
+            "Nolan"
+        ],
+        "respuesta_correcta": "QUENTIN TARANTINO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Cómo se llama el hotel de 'El Resplandor'?",
+        "opciones": [
+            "Overlook",
+            "Bates Motel",
+            "Grand Budapest",
+            "Stanley"
+        ],
+        "respuesta_correcta": "OVERLOOK",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Cómo se llama el renacer cultural tras la Edad Media?",
+        "opciones": [
+            "Ilustración",
+            "Barroco",
+            "Renacimiento",
+            "Gótico"
+        ],
+        "respuesta_correcta": "RENACIMIENTO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué película trata sobre Miguel y la Tierra de los Muertos?",
+        "opciones": [
+            "Libro de la vida",
+            "Coco",
+            "Encanto",
+            "Up"
+        ],
+        "respuesta_correcta": "COCO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "opciones": [
+            "Thomas Jefferson",
+            "Lincoln",
+            "Washington",
+            "Adams"
+        ],
+        "respuesta_correcta": "GEORGE WASHINGTON",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién dirigió la premiada película 'Parásitos'?",
+        "opciones": [
+            "Kurosawa",
+            "Bong Joon-ho",
+            "Park Chan-wook",
+            "Ang Lee"
+        ],
+        "respuesta_correcta": "BONG JOON-HO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién llegó a América en 1492?",
+        "opciones": [
+            "Vespucio",
+            "Colón",
+            "Magallanes",
+            "Vasco de Gama"
+        ],
+        "respuesta_correcta": "CRISTÓBAL COLÓN",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿En qué país comenzó la Revolución Industrial?",
+        "opciones": [
+            "Francia",
+            "Alemania",
+            "EEUU",
+            "Gran Bretaña"
+        ],
+        "respuesta_correcta": "GRAN BRETAÑA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién lideró la independencia pacífica de la India?",
+        "opciones": [
+            "Nehru",
+            "Indira Gandhi",
+            "Mahatma Gandhi",
+            "Ambedkar"
+        ],
+        "respuesta_correcta": "MAHATMA GANDHI",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿En qué año se estrenó 'Titanic' de James Cameron?",
+        "opciones": [
+            "1994",
+            "1997",
+            "2000",
+            "1991"
+        ],
+        "respuesta_correcta": "1997",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Quién lideró la Revolución Rusa de 1917?",
+        "opciones": [
+            "Stalin",
+            "Trotsky",
+            "Lenin",
+            "Nicolás II"
+        ],
+        "respuesta_correcta": "LENIN",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué película de 1975 dirigió Spielberg sobre un gran pez?",
+        "opciones": [
+            "Piraña",
+            "Tiburón",
+            "Orca",
+            "The Deep"
+        ],
+        "respuesta_correcta": "TIBURÓN",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué emperador fue derrotado en Waterloo?",
+        "opciones": [
+            "Luis XIV",
+            "Napoleón",
+            "Carlos X",
+            "Luis XVI"
+        ],
+        "respuesta_correcta": "NAPOLEÓN BONAPARTE",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué ciudad fue destruida por el Vesubio en el 79 d.C.?",
+        "opciones": [
+            "Herculano",
+            "Pompeya",
+            "Roma",
+            "Nápoles"
+        ],
+        "respuesta_correcta": "POMPEYA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué civilización construyó las pirámides de Giza?",
+        "opciones": [
+            "Maya",
+            "Azteca",
+            "Egipcia",
+            "Inca"
+        ],
+        "respuesta_correcta": "EGIPCIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿En qué película se dice 'Yo soy tu padre'?",
+        "opciones": [
+            "Star Wars IV",
+            "El Imperio Contraataca",
+            "Star Wars VI",
+            "Star Wars III"
+        ],
+        "respuesta_correcta": "EL IMPERIO CONTRAATACA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Cómo se llama el elegido en 'The Matrix'?",
+        "opciones": [
+            "Morpheus",
+            "Neo",
+            "Trinity",
+            "Smith"
+        ],
+        "respuesta_correcta": "NEO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "DynamoDB (Espectáculo)",
+        "pregunta": "¿Qué actor protagoniza la saga 'Misión Imposible'?",
+        "opciones": [
+            "Will Smith",
+            "Keanu Reeves",
+            "Tom Cruise",
+            "Willis"
+        ],
+        "respuesta_correcta": "TOM CRUISE",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": [
+            "Mónaco",
+            "Vaticano",
+            "San Marino",
+            "Andorra"
+        ],
+        "respuesta_correcta": "VATICANO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué río pasa por Londres?",
+        "opciones": [
+            "Sena",
+            "Danubio",
+            "Támesis",
+            "Rin"
+        ],
+        "respuesta_correcta": "TÁMESIS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "opciones": [
+            "Kioto",
+            "Osaka",
+            "Tokio",
+            "Hiroshima"
+        ],
+        "respuesta_correcta": "TOKIO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país está el Taj Mahal?",
+        "opciones": [
+            "Pakistán",
+            "India",
+            "Bangladesh",
+            "Nepal"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué océano baña las costas de Brasil?",
+        "opciones": [
+            "Pacífico",
+            "Índico",
+            "Ártico",
+            "Atlántico"
+        ],
+        "respuesta_correcta": "ATLÁNTICO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el monte más alto de África?",
+        "opciones": [
+            "Kenia",
+            "Kilimanjaro",
+            "Atlas",
+            "Everest"
+        ],
+        "respuesta_correcta": "KILIMANJARO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país tiene más fronteras terrestres?",
+        "opciones": [
+            "Rusia",
+            "China",
+            "Brasil",
+            "India"
+        ],
+        "respuesta_correcta": "CHINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Suiza?",
+        "opciones": [
+            "Zúrich",
+            "Ginebra",
+            "Basilea",
+            "Berna"
+        ],
+        "respuesta_correcta": "BERNA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es el mayor productor de café?",
+        "opciones": [
+            "Colombia",
+            "Vietnam",
+            "Etiopía",
+            "Brasil"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué mar desemboca el río Nilo?",
+        "opciones": [
+            "Rojo",
+            "Caspio",
+            "Mediterráneo",
+            "Negro"
+        ],
+        "respuesta_correcta": "MEDITERRÁNEO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la isla más grande del mundo?",
+        "opciones": [
+            "Australia",
+            "Groenlandia",
+            "Borneo",
+            "Madagascar"
+        ],
+        "respuesta_correcta": "GROENLANDIA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Noruega?",
+        "opciones": [
+            "Oslo",
+            "Bergen",
+            "Estocolmo",
+            "Copenhague"
+        ],
+        "respuesta_correcta": "OSLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué desierto es el más seco del mundo?",
+        "opciones": [
+            "Sahara",
+            "Gobi",
+            "Atacama",
+            "Kalahari"
+        ],
+        "respuesta_correcta": "ATACAMA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿A qué país pertenecen las Islas Canarias?",
+        "opciones": [
+            "Portugal",
+            "Marruecos",
+            "España",
+            "Francia"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué estrecho separa Asia de América?",
+        "opciones": [
+            "Gibraltar",
+            "Bering",
+            "Magallanes",
+            "Ormuz"
+        ],
+        "respuesta_correcta": "BERING",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Argentina?",
+        "opciones": [
+            "Rosario",
+            "Córdoba",
+            "Buenos Aires",
+            "Mendoza"
+        ],
+        "respuesta_correcta": "BUENOS AIRES",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué continente está el Gran Cañón?",
+        "opciones": [
+            "Asia",
+            "Europa",
+            "América",
+            "África"
+        ],
+        "respuesta_correcta": "AMÉRICA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "opciones": [
+            "India",
+            "China",
+            "EEUU",
+            "Rusia"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué moneda se usa en México?",
+        "opciones": [
+            "Dólar",
+            "Peso",
+            "Bolívar",
+            "Sol"
+        ],
+        "respuesta_correcta": "PESO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Egipto?",
+        "opciones": [
+            "Alejandría",
+            "Luxor",
+            "El Cairo",
+            "Giza"
+        ],
+        "respuesta_correcta": "EL CAIRO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es famoso por sus canales y tulipanes?",
+        "opciones": [
+            "Bélgica",
+            "Dinamarca",
+            "Países Bajos",
+            "Suecia"
+        ],
+        "respuesta_correcta": "PAÍSES BAJOS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país se encuentra la ciudad de Dubái?",
+        "opciones": [
+            "Arabia Saudita",
+            "Qatar",
+            "EAU",
+            "Omán"
+        ],
+        "respuesta_correcta": "EAU",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Portugal?",
+        "opciones": [
+            "Oporto",
+            "Lisboa",
+            "Faro",
+            "Coímbra"
+        ],
+        "respuesta_correcta": "LISBOA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué línea imaginaria divide la Tierra en Norte y Sur?",
+        "opciones": [
+            "Ecuador",
+            "Meridiano",
+            "Trópico",
+            "Círculo Polar"
+        ],
+        "respuesta_correcta": "ECUADOR",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el pico más alto de España?",
+        "opciones": [
+            "Aneto",
+            "Mulhacén",
+            "Teide",
+            "Pico de Europa"
+        ],
+        "respuesta_correcta": "TEIDE",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ha ganado más mundiales de fútbol?",
+        "opciones": [
+            "Alemania",
+            "Italia",
+            "Brasil",
+            "Argentina"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos jugadores hay en un equipo de baloncesto?",
+        "opciones": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "respuesta_correcta": "5",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se usa un 'puck'?",
+        "opciones": [
+            "Golf",
+            "Tenis",
+            "Hockey sobre hielo",
+            "Béisbol"
+        ],
+        "respuesta_correcta": "HOCKEY SOBRE HIELO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el rey de la tierra batida en tenis?",
+        "opciones": [
+            "Federer",
+            "Djokovic",
+            "Nadal",
+            "Alcaraz"
+        ],
+        "respuesta_correcta": "NADAL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cada cuántos años hay Juegos Olímpicos?",
+        "opciones": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "respuesta_correcta": "4",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la distancia de una media maratón?",
+        "opciones": [
+            "10km",
+            "21.097km",
+            "42.195km",
+            "15km"
+        ],
+        "respuesta_correcta": "21.097KM",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué equipo jugaba Michael Jordan?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Bulls",
+            "Knicks"
+        ],
+        "respuesta_correcta": "BULLS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué selección ganó la Eurocopa 2024?",
+        "opciones": [
+            "Inglaterra",
+            "España",
+            "Francia",
+            "Alemania"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el máximo goleador de la Champions?",
+        "opciones": [
+            "Messi",
+            "Lewandowski",
+            "Cristiano Ronaldo",
+            "Raúl"
+        ],
+        "respuesta_correcta": "CRISTIANO RONALDO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte destaca Tiger Woods?",
+        "opciones": [
+            "Tenis",
+            "Golf",
+            "Surf",
+            "F1"
+        ],
+        "respuesta_correcta": "GOLF",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el estilo de natación más rápido?",
+        "opciones": [
+            "Espalda",
+            "Braza",
+            "Crol",
+            "Mariposa"
+        ],
+        "respuesta_correcta": "CROL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ganó el primer mundial de F1 en 1950?",
+        "opciones": [
+            "Fangio",
+            "Farina",
+            "Ascari",
+            "Moss"
+        ],
+        "respuesta_correcta": "FARINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cómo se llama el estadio del Real Madrid?",
+        "opciones": [
+            "Camp Nou",
+            "Metropolitano",
+            "Santiago Bernabéu",
+            "Mestalla"
+        ],
+        "respuesta_correcta": "SANTIAGO BERNABÉU",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país inventó el judo?",
+        "opciones": [
+            "China",
+            "Corea",
+            "Japón",
+            "Tailandia"
+        ],
+        "respuesta_correcta": "JAPÓN",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos puntos vale un touchdown?",
+        "opciones": [
+            "3",
+            "6",
+            "7",
+            "1"
+        ],
+        "respuesta_correcta": "6",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué tenista femenina tiene más Grand Slams?",
+        "opciones": [
+            "Serena Williams",
+            "Margaret Court",
+            "Steffi Graf",
+            "Navratilova"
+        ],
+        "respuesta_correcta": "MARGARET COURT",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad se celebraron los JJOO de 1992?",
+        "opciones": [
+            "Madrid",
+            "Sevilla",
+            "Barcelona",
+            "Valencia"
+        ],
+        "respuesta_correcta": "BARCELONA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es 'The G.O.A.T' en gimnasia artística femenina?",
+        "opciones": [
+            "Nadia Comăneci",
+            "Simone Biles",
+            "Beth Tweddle",
+            "Aliya Mustafina"
+        ],
+        "respuesta_correcta": "SIMONE BILES",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué equipo de la NBA tiene más títulos?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Warriors",
+            "Bulls"
+        ],
+        "respuesta_correcta": "CELTICS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué color de jersey lleva el líder del Tour de Francia?",
+        "opciones": [
+            "Rojo",
+            "Verde",
+            "Amarillo",
+            "Blanco"
+        ],
+        "respuesta_correcta": "AMARILLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se compite por la America's Cup?",
+        "opciones": [
+            "Equitación",
+            "Vela",
+            "Polo",
+            "Esgrima"
+        ],
+        "respuesta_correcta": "VELA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuánto dura un combate de boxeo olímpico?",
+        "opciones": [
+            "3 asaltos",
+            "5 asaltos",
+            "10 asaltos",
+            "12 asaltos"
+        ],
+        "respuesta_correcta": "3 ASALTOS",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ostenta el récord de 100m lisos?",
+        "opciones": [
+            "Tyson Gay",
+            "Yohan Blake",
+            "Usain Bolt",
+            "Asafa Powell"
+        ],
+        "respuesta_correcta": "USAIN BOLT",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad juegan los Yankees de béisbol?",
+        "opciones": [
+            "Chicago",
+            "Boston",
+            "Nueva York",
+            "Miami"
+        ],
+        "respuesta_correcta": "NUEVA YORK",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántas piezas tiene un jugador al empezar ajedrez?",
+        "opciones": [
+            "12",
+            "16",
+            "20",
+            "32"
+        ],
+        "respuesta_correcta": "16",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": [
+            "Mónaco",
+            "Vaticano",
+            "San Marino",
+            "Andorra"
+        ],
+        "respuesta_correcta": "VATICANO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué río pasa por Londres?",
+        "opciones": [
+            "Sena",
+            "Danubio",
+            "Támesis",
+            "Rin"
+        ],
+        "respuesta_correcta": "TÁMESIS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "opciones": [
+            "Kioto",
+            "Osaka",
+            "Tokio",
+            "Hiroshima"
+        ],
+        "respuesta_correcta": "TOKIO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país está el Taj Mahal?",
+        "opciones": [
+            "Pakistán",
+            "India",
+            "Bangladesh",
+            "Nepal"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué océano baña las costas de Brasil?",
+        "opciones": [
+            "Pacífico",
+            "Índico",
+            "Ártico",
+            "Atlántico"
+        ],
+        "respuesta_correcta": "ATLÁNTICO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el monte más alto de África?",
+        "opciones": [
+            "Kenia",
+            "Kilimanjaro",
+            "Atlas",
+            "Everest"
+        ],
+        "respuesta_correcta": "KILIMANJARO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país tiene más fronteras terrestres?",
+        "opciones": [
+            "Rusia",
+            "China",
+            "Brasil",
+            "India"
+        ],
+        "respuesta_correcta": "CHINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Suiza?",
+        "opciones": [
+            "Zúrich",
+            "Ginebra",
+            "Basilea",
+            "Berna"
+        ],
+        "respuesta_correcta": "BERNA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es el mayor productor de café?",
+        "opciones": [
+            "Colombia",
+            "Vietnam",
+            "Etiopía",
+            "Brasil"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué mar desemboca el río Nilo?",
+        "opciones": [
+            "Rojo",
+            "Caspio",
+            "Mediterráneo",
+            "Negro"
+        ],
+        "respuesta_correcta": "MEDITERRÁNEO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la isla más grande del mundo?",
+        "opciones": [
+            "Australia",
+            "Groenlandia",
+            "Borneo",
+            "Madagascar"
+        ],
+        "respuesta_correcta": "GROENLANDIA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Noruega?",
+        "opciones": [
+            "Oslo",
+            "Bergen",
+            "Estocolmo",
+            "Copenhague"
+        ],
+        "respuesta_correcta": "OSLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué desierto es el más seco del mundo?",
+        "opciones": [
+            "Sahara",
+            "Gobi",
+            "Atacama",
+            "Kalahari"
+        ],
+        "respuesta_correcta": "ATACAMA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿A qué país pertenecen las Islas Canarias?",
+        "opciones": [
+            "Portugal",
+            "Marruecos",
+            "España",
+            "Francia"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué estrecho separa Asia de América?",
+        "opciones": [
+            "Gibraltar",
+            "Bering",
+            "Magallanes",
+            "Ormuz"
+        ],
+        "respuesta_correcta": "BERING",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Argentina?",
+        "opciones": [
+            "Rosario",
+            "Córdoba",
+            "Buenos Aires",
+            "Mendoza"
+        ],
+        "respuesta_correcta": "BUENOS AIRES",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué continente está el Gran Cañón?",
+        "opciones": [
+            "Asia",
+            "Europa",
+            "América",
+            "África"
+        ],
+        "respuesta_correcta": "AMÉRICA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "opciones": [
+            "India",
+            "China",
+            "EEUU",
+            "Rusia"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué moneda se usa en México?",
+        "opciones": [
+            "Dólar",
+            "Peso",
+            "Bolívar",
+            "Sol"
+        ],
+        "respuesta_correcta": "PESO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Egipto?",
+        "opciones": [
+            "Alejandría",
+            "Luxor",
+            "El Cairo",
+            "Giza"
+        ],
+        "respuesta_correcta": "EL CAIRO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es famoso por sus canales y tulipanes?",
+        "opciones": [
+            "Bélgica",
+            "Dinamarca",
+            "Países Bajos",
+            "Suecia"
+        ],
+        "respuesta_correcta": "PAÍSES BAJOS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país se encuentra la ciudad de Dubái?",
+        "opciones": [
+            "Arabia Saudita",
+            "Qatar",
+            "EAU",
+            "Omán"
+        ],
+        "respuesta_correcta": "EAU",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Portugal?",
+        "opciones": [
+            "Oporto",
+            "Lisboa",
+            "Faro",
+            "Coímbra"
+        ],
+        "respuesta_correcta": "LISBOA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué línea imaginaria divide la Tierra en Norte y Sur?",
+        "opciones": [
+            "Ecuador",
+            "Meridiano",
+            "Trópico",
+            "Círculo Polar"
+        ],
+        "respuesta_correcta": "ECUADOR",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el pico más alto de España?",
+        "opciones": [
+            "Aneto",
+            "Mulhacén",
+            "Teide",
+            "Pico de Europa"
+        ],
+        "respuesta_correcta": "TEIDE",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ha ganado más mundiales de fútbol?",
+        "opciones": [
+            "Alemania",
+            "Italia",
+            "Brasil",
+            "Argentina"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos jugadores hay en un equipo de baloncesto?",
+        "opciones": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "respuesta_correcta": "5",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se usa un 'puck'?",
+        "opciones": [
+            "Golf",
+            "Tenis",
+            "Hockey sobre hielo",
+            "Béisbol"
+        ],
+        "respuesta_correcta": "HOCKEY SOBRE HIELO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el rey de la tierra batida en tenis?",
+        "opciones": [
+            "Federer",
+            "Djokovic",
+            "Nadal",
+            "Alcaraz"
+        ],
+        "respuesta_correcta": "NADAL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cada cuántos años hay Juegos Olímpicos?",
+        "opciones": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "respuesta_correcta": "4",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la distancia de una media maratón?",
+        "opciones": [
+            "10km",
+            "21.097km",
+            "42.195km",
+            "15km"
+        ],
+        "respuesta_correcta": "21.097KM",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué equipo jugaba Michael Jordan?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Bulls",
+            "Knicks"
+        ],
+        "respuesta_correcta": "BULLS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué selección ganó la Eurocopa 2024?",
+        "opciones": [
+            "Inglaterra",
+            "España",
+            "Francia",
+            "Alemania"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el máximo goleador de la Champions?",
+        "opciones": [
+            "Messi",
+            "Lewandowski",
+            "Cristiano Ronaldo",
+            "Raúl"
+        ],
+        "respuesta_correcta": "CRISTIANO RONALDO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte destaca Tiger Woods?",
+        "opciones": [
+            "Tenis",
+            "Golf",
+            "Surf",
+            "F1"
+        ],
+        "respuesta_correcta": "GOLF",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el estilo de natación más rápido?",
+        "opciones": [
+            "Espalda",
+            "Braza",
+            "Crol",
+            "Mariposa"
+        ],
+        "respuesta_correcta": "CROL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ganó el primer mundial de F1 en 1950?",
+        "opciones": [
+            "Fangio",
+            "Farina",
+            "Ascari",
+            "Moss"
+        ],
+        "respuesta_correcta": "FARINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cómo se llama el estadio del Real Madrid?",
+        "opciones": [
+            "Camp Nou",
+            "Metropolitano",
+            "Santiago Bernabéu",
+            "Mestalla"
+        ],
+        "respuesta_correcta": "SANTIAGO BERNABÉU",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país inventó el judo?",
+        "opciones": [
+            "China",
+            "Corea",
+            "Japón",
+            "Tailandia"
+        ],
+        "respuesta_correcta": "JAPÓN",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos puntos vale un touchdown?",
+        "opciones": [
+            "3",
+            "6",
+            "7",
+            "1"
+        ],
+        "respuesta_correcta": "6",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué tenista femenina tiene más Grand Slams?",
+        "opciones": [
+            "Serena Williams",
+            "Margaret Court",
+            "Steffi Graf",
+            "Navratilova"
+        ],
+        "respuesta_correcta": "MARGARET COURT",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad se celebraron los JJOO de 1992?",
+        "opciones": [
+            "Madrid",
+            "Sevilla",
+            "Barcelona",
+            "Valencia"
+        ],
+        "respuesta_correcta": "BARCELONA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es 'The G.O.A.T' en gimnasia artística femenina?",
+        "opciones": [
+            "Nadia Comăneci",
+            "Simone Biles",
+            "Beth Tweddle",
+            "Aliya Mustafina"
+        ],
+        "respuesta_correcta": "SIMONE BILES",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué equipo de la NBA tiene más títulos?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Warriors",
+            "Bulls"
+        ],
+        "respuesta_correcta": "CELTICS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué color de jersey lleva el líder del Tour de Francia?",
+        "opciones": [
+            "Rojo",
+            "Verde",
+            "Amarillo",
+            "Blanco"
+        ],
+        "respuesta_correcta": "AMARILLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se compite por la America's Cup?",
+        "opciones": [
+            "Equitación",
+            "Vela",
+            "Polo",
+            "Esgrima"
+        ],
+        "respuesta_correcta": "VELA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuánto dura un combate de boxeo olímpico?",
+        "opciones": [
+            "3 asaltos",
+            "5 asaltos",
+            "10 asaltos",
+            "12 asaltos"
+        ],
+        "respuesta_correcta": "3 ASALTOS",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ostenta el récord de 100m lisos?",
+        "opciones": [
+            "Tyson Gay",
+            "Yohan Blake",
+            "Usain Bolt",
+            "Asafa Powell"
+        ],
+        "respuesta_correcta": "USAIN BOLT",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad juegan los Yankees de béisbol?",
+        "opciones": [
+            "Chicago",
+            "Boston",
+            "Nueva York",
+            "Miami"
+        ],
+        "respuesta_correcta": "NUEVA YORK",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántas piezas tiene un jugador al empezar ajedrez?",
+        "opciones": [
+            "12",
+            "16",
+            "20",
+            "32"
+        ],
+        "respuesta_correcta": "16",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": [
+            "Mónaco",
+            "Vaticano",
+            "San Marino",
+            "Andorra"
+        ],
+        "respuesta_correcta": "VATICANO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué río pasa por Londres?",
+        "opciones": [
+            "Sena",
+            "Danubio",
+            "Támesis",
+            "Rin"
+        ],
+        "respuesta_correcta": "TÁMESIS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "opciones": [
+            "Kioto",
+            "Osaka",
+            "Tokio",
+            "Hiroshima"
+        ],
+        "respuesta_correcta": "TOKIO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país está el Taj Mahal?",
+        "opciones": [
+            "Pakistán",
+            "India",
+            "Bangladesh",
+            "Nepal"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué océano baña las costas de Brasil?",
+        "opciones": [
+            "Pacífico",
+            "Índico",
+            "Ártico",
+            "Atlántico"
+        ],
+        "respuesta_correcta": "ATLÁNTICO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el monte más alto de África?",
+        "opciones": [
+            "Kenia",
+            "Kilimanjaro",
+            "Atlas",
+            "Everest"
+        ],
+        "respuesta_correcta": "KILIMANJARO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país tiene más fronteras terrestres?",
+        "opciones": [
+            "Rusia",
+            "China",
+            "Brasil",
+            "India"
+        ],
+        "respuesta_correcta": "CHINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Suiza?",
+        "opciones": [
+            "Zúrich",
+            "Ginebra",
+            "Basilea",
+            "Berna"
+        ],
+        "respuesta_correcta": "BERNA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es el mayor productor de café?",
+        "opciones": [
+            "Colombia",
+            "Vietnam",
+            "Etiopía",
+            "Brasil"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué mar desemboca el río Nilo?",
+        "opciones": [
+            "Rojo",
+            "Caspio",
+            "Mediterráneo",
+            "Negro"
+        ],
+        "respuesta_correcta": "MEDITERRÁNEO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la isla más grande del mundo?",
+        "opciones": [
+            "Australia",
+            "Groenlandia",
+            "Borneo",
+            "Madagascar"
+        ],
+        "respuesta_correcta": "GROENLANDIA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Noruega?",
+        "opciones": [
+            "Oslo",
+            "Bergen",
+            "Estocolmo",
+            "Copenhague"
+        ],
+        "respuesta_correcta": "OSLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué desierto es el más seco del mundo?",
+        "opciones": [
+            "Sahara",
+            "Gobi",
+            "Atacama",
+            "Kalahari"
+        ],
+        "respuesta_correcta": "ATACAMA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿A qué país pertenecen las Islas Canarias?",
+        "opciones": [
+            "Portugal",
+            "Marruecos",
+            "España",
+            "Francia"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué estrecho separa Asia de América?",
+        "opciones": [
+            "Gibraltar",
+            "Bering",
+            "Magallanes",
+            "Ormuz"
+        ],
+        "respuesta_correcta": "BERING",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Argentina?",
+        "opciones": [
+            "Rosario",
+            "Córdoba",
+            "Buenos Aires",
+            "Mendoza"
+        ],
+        "respuesta_correcta": "BUENOS AIRES",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué continente está el Gran Cañón?",
+        "opciones": [
+            "Asia",
+            "Europa",
+            "América",
+            "África"
+        ],
+        "respuesta_correcta": "AMÉRICA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "opciones": [
+            "India",
+            "China",
+            "EEUU",
+            "Rusia"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué moneda se usa en México?",
+        "opciones": [
+            "Dólar",
+            "Peso",
+            "Bolívar",
+            "Sol"
+        ],
+        "respuesta_correcta": "PESO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Egipto?",
+        "opciones": [
+            "Alejandría",
+            "Luxor",
+            "El Cairo",
+            "Giza"
+        ],
+        "respuesta_correcta": "EL CAIRO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es famoso por sus canales y tulipanes?",
+        "opciones": [
+            "Bélgica",
+            "Dinamarca",
+            "Países Bajos",
+            "Suecia"
+        ],
+        "respuesta_correcta": "PAÍSES BAJOS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país se encuentra la ciudad de Dubái?",
+        "opciones": [
+            "Arabia Saudita",
+            "Qatar",
+            "EAU",
+            "Omán"
+        ],
+        "respuesta_correcta": "EAU",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Portugal?",
+        "opciones": [
+            "Oporto",
+            "Lisboa",
+            "Faro",
+            "Coímbra"
+        ],
+        "respuesta_correcta": "LISBOA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué línea imaginaria divide la Tierra en Norte y Sur?",
+        "opciones": [
+            "Ecuador",
+            "Meridiano",
+            "Trópico",
+            "Círculo Polar"
+        ],
+        "respuesta_correcta": "ECUADOR",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el pico más alto de España?",
+        "opciones": [
+            "Aneto",
+            "Mulhacén",
+            "Teide",
+            "Pico de Europa"
+        ],
+        "respuesta_correcta": "TEIDE",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ha ganado más mundiales de fútbol?",
+        "opciones": [
+            "Alemania",
+            "Italia",
+            "Brasil",
+            "Argentina"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos jugadores hay en un equipo de baloncesto?",
+        "opciones": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "respuesta_correcta": "5",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se usa un 'puck'?",
+        "opciones": [
+            "Golf",
+            "Tenis",
+            "Hockey sobre hielo",
+            "Béisbol"
+        ],
+        "respuesta_correcta": "HOCKEY SOBRE HIELO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el rey de la tierra batida en tenis?",
+        "opciones": [
+            "Federer",
+            "Djokovic",
+            "Nadal",
+            "Alcaraz"
+        ],
+        "respuesta_correcta": "NADAL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cada cuántos años hay Juegos Olímpicos?",
+        "opciones": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "respuesta_correcta": "4",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la distancia de una media maratón?",
+        "opciones": [
+            "10km",
+            "21.097km",
+            "42.195km",
+            "15km"
+        ],
+        "respuesta_correcta": "21.097KM",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué equipo jugaba Michael Jordan?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Bulls",
+            "Knicks"
+        ],
+        "respuesta_correcta": "BULLS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué selección ganó la Eurocopa 2024?",
+        "opciones": [
+            "Inglaterra",
+            "España",
+            "Francia",
+            "Alemania"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el máximo goleador de la Champions?",
+        "opciones": [
+            "Messi",
+            "Lewandowski",
+            "Cristiano Ronaldo",
+            "Raúl"
+        ],
+        "respuesta_correcta": "CRISTIANO RONALDO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte destaca Tiger Woods?",
+        "opciones": [
+            "Tenis",
+            "Golf",
+            "Surf",
+            "F1"
+        ],
+        "respuesta_correcta": "GOLF",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el estilo de natación más rápido?",
+        "opciones": [
+            "Espalda",
+            "Braza",
+            "Crol",
+            "Mariposa"
+        ],
+        "respuesta_correcta": "CROL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ganó el primer mundial de F1 en 1950?",
+        "opciones": [
+            "Fangio",
+            "Farina",
+            "Ascari",
+            "Moss"
+        ],
+        "respuesta_correcta": "FARINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cómo se llama el estadio del Real Madrid?",
+        "opciones": [
+            "Camp Nou",
+            "Metropolitano",
+            "Santiago Bernabéu",
+            "Mestalla"
+        ],
+        "respuesta_correcta": "SANTIAGO BERNABÉU",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país inventó el judo?",
+        "opciones": [
+            "China",
+            "Corea",
+            "Japón",
+            "Tailandia"
+        ],
+        "respuesta_correcta": "JAPÓN",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos puntos vale un touchdown?",
+        "opciones": [
+            "3",
+            "6",
+            "7",
+            "1"
+        ],
+        "respuesta_correcta": "6",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué tenista femenina tiene más Grand Slams?",
+        "opciones": [
+            "Serena Williams",
+            "Margaret Court",
+            "Steffi Graf",
+            "Navratilova"
+        ],
+        "respuesta_correcta": "MARGARET COURT",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad se celebraron los JJOO de 1992?",
+        "opciones": [
+            "Madrid",
+            "Sevilla",
+            "Barcelona",
+            "Valencia"
+        ],
+        "respuesta_correcta": "BARCELONA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es 'The G.O.A.T' en gimnasia artística femenina?",
+        "opciones": [
+            "Nadia Comăneci",
+            "Simone Biles",
+            "Beth Tweddle",
+            "Aliya Mustafina"
+        ],
+        "respuesta_correcta": "SIMONE BILES",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué equipo de la NBA tiene más títulos?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Warriors",
+            "Bulls"
+        ],
+        "respuesta_correcta": "CELTICS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué color de jersey lleva el líder del Tour de Francia?",
+        "opciones": [
+            "Rojo",
+            "Verde",
+            "Amarillo",
+            "Blanco"
+        ],
+        "respuesta_correcta": "AMARILLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se compite por la America's Cup?",
+        "opciones": [
+            "Equitación",
+            "Vela",
+            "Polo",
+            "Esgrima"
+        ],
+        "respuesta_correcta": "VELA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuánto dura un combate de boxeo olímpico?",
+        "opciones": [
+            "3 asaltos",
+            "5 asaltos",
+            "10 asaltos",
+            "12 asaltos"
+        ],
+        "respuesta_correcta": "3 ASALTOS",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ostenta el récord de 100m lisos?",
+        "opciones": [
+            "Tyson Gay",
+            "Yohan Blake",
+            "Usain Bolt",
+            "Asafa Powell"
+        ],
+        "respuesta_correcta": "USAIN BOLT",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad juegan los Yankees de béisbol?",
+        "opciones": [
+            "Chicago",
+            "Boston",
+            "Nueva York",
+            "Miami"
+        ],
+        "respuesta_correcta": "NUEVA YORK",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántas piezas tiene un jugador al empezar ajedrez?",
+        "opciones": [
+            "12",
+            "16",
+            "20",
+            "32"
+        ],
+        "respuesta_correcta": "16",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": [
+            "Mónaco",
+            "Vaticano",
+            "San Marino",
+            "Andorra"
+        ],
+        "respuesta_correcta": "VATICANO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué río pasa por Londres?",
+        "opciones": [
+            "Sena",
+            "Danubio",
+            "Támesis",
+            "Rin"
+        ],
+        "respuesta_correcta": "TÁMESIS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "opciones": [
+            "Kioto",
+            "Osaka",
+            "Tokio",
+            "Hiroshima"
+        ],
+        "respuesta_correcta": "TOKIO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país está el Taj Mahal?",
+        "opciones": [
+            "Pakistán",
+            "India",
+            "Bangladesh",
+            "Nepal"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué océano baña las costas de Brasil?",
+        "opciones": [
+            "Pacífico",
+            "Índico",
+            "Ártico",
+            "Atlántico"
+        ],
+        "respuesta_correcta": "ATLÁNTICO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el monte más alto de África?",
+        "opciones": [
+            "Kenia",
+            "Kilimanjaro",
+            "Atlas",
+            "Everest"
+        ],
+        "respuesta_correcta": "KILIMANJARO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país tiene más fronteras terrestres?",
+        "opciones": [
+            "Rusia",
+            "China",
+            "Brasil",
+            "India"
+        ],
+        "respuesta_correcta": "CHINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Suiza?",
+        "opciones": [
+            "Zúrich",
+            "Ginebra",
+            "Basilea",
+            "Berna"
+        ],
+        "respuesta_correcta": "BERNA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es el mayor productor de café?",
+        "opciones": [
+            "Colombia",
+            "Vietnam",
+            "Etiopía",
+            "Brasil"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué mar desemboca el río Nilo?",
+        "opciones": [
+            "Rojo",
+            "Caspio",
+            "Mediterráneo",
+            "Negro"
+        ],
+        "respuesta_correcta": "MEDITERRÁNEO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la isla más grande del mundo?",
+        "opciones": [
+            "Australia",
+            "Groenlandia",
+            "Borneo",
+            "Madagascar"
+        ],
+        "respuesta_correcta": "GROENLANDIA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Noruega?",
+        "opciones": [
+            "Oslo",
+            "Bergen",
+            "Estocolmo",
+            "Copenhague"
+        ],
+        "respuesta_correcta": "OSLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué desierto es el más seco del mundo?",
+        "opciones": [
+            "Sahara",
+            "Gobi",
+            "Atacama",
+            "Kalahari"
+        ],
+        "respuesta_correcta": "ATACAMA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿A qué país pertenecen las Islas Canarias?",
+        "opciones": [
+            "Portugal",
+            "Marruecos",
+            "España",
+            "Francia"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué estrecho separa Asia de América?",
+        "opciones": [
+            "Gibraltar",
+            "Bering",
+            "Magallanes",
+            "Ormuz"
+        ],
+        "respuesta_correcta": "BERING",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Argentina?",
+        "opciones": [
+            "Rosario",
+            "Córdoba",
+            "Buenos Aires",
+            "Mendoza"
+        ],
+        "respuesta_correcta": "BUENOS AIRES",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué continente está el Gran Cañón?",
+        "opciones": [
+            "Asia",
+            "Europa",
+            "América",
+            "África"
+        ],
+        "respuesta_correcta": "AMÉRICA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "opciones": [
+            "India",
+            "China",
+            "EEUU",
+            "Rusia"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué moneda se usa en México?",
+        "opciones": [
+            "Dólar",
+            "Peso",
+            "Bolívar",
+            "Sol"
+        ],
+        "respuesta_correcta": "PESO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Egipto?",
+        "opciones": [
+            "Alejandría",
+            "Luxor",
+            "El Cairo",
+            "Giza"
+        ],
+        "respuesta_correcta": "EL CAIRO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es famoso por sus canales y tulipanes?",
+        "opciones": [
+            "Bélgica",
+            "Dinamarca",
+            "Países Bajos",
+            "Suecia"
+        ],
+        "respuesta_correcta": "PAÍSES BAJOS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país se encuentra la ciudad de Dubái?",
+        "opciones": [
+            "Arabia Saudita",
+            "Qatar",
+            "EAU",
+            "Omán"
+        ],
+        "respuesta_correcta": "EAU",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Portugal?",
+        "opciones": [
+            "Oporto",
+            "Lisboa",
+            "Faro",
+            "Coímbra"
+        ],
+        "respuesta_correcta": "LISBOA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué línea imaginaria divide la Tierra en Norte y Sur?",
+        "opciones": [
+            "Ecuador",
+            "Meridiano",
+            "Trópico",
+            "Círculo Polar"
+        ],
+        "respuesta_correcta": "ECUADOR",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el pico más alto de España?",
+        "opciones": [
+            "Aneto",
+            "Mulhacén",
+            "Teide",
+            "Pico de Europa"
+        ],
+        "respuesta_correcta": "TEIDE",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ha ganado más mundiales de fútbol?",
+        "opciones": [
+            "Alemania",
+            "Italia",
+            "Brasil",
+            "Argentina"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos jugadores hay en un equipo de baloncesto?",
+        "opciones": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "respuesta_correcta": "5",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se usa un 'puck'?",
+        "opciones": [
+            "Golf",
+            "Tenis",
+            "Hockey sobre hielo",
+            "Béisbol"
+        ],
+        "respuesta_correcta": "HOCKEY SOBRE HIELO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el rey de la tierra batida en tenis?",
+        "opciones": [
+            "Federer",
+            "Djokovic",
+            "Nadal",
+            "Alcaraz"
+        ],
+        "respuesta_correcta": "NADAL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cada cuántos años hay Juegos Olímpicos?",
+        "opciones": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "respuesta_correcta": "4",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la distancia de una media maratón?",
+        "opciones": [
+            "10km",
+            "21.097km",
+            "42.195km",
+            "15km"
+        ],
+        "respuesta_correcta": "21.097KM",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué equipo jugaba Michael Jordan?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Bulls",
+            "Knicks"
+        ],
+        "respuesta_correcta": "BULLS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué selección ganó la Eurocopa 2024?",
+        "opciones": [
+            "Inglaterra",
+            "España",
+            "Francia",
+            "Alemania"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el máximo goleador de la Champions?",
+        "opciones": [
+            "Messi",
+            "Lewandowski",
+            "Cristiano Ronaldo",
+            "Raúl"
+        ],
+        "respuesta_correcta": "CRISTIANO RONALDO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte destaca Tiger Woods?",
+        "opciones": [
+            "Tenis",
+            "Golf",
+            "Surf",
+            "F1"
+        ],
+        "respuesta_correcta": "GOLF",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el estilo de natación más rápido?",
+        "opciones": [
+            "Espalda",
+            "Braza",
+            "Crol",
+            "Mariposa"
+        ],
+        "respuesta_correcta": "CROL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ganó el primer mundial de F1 en 1950?",
+        "opciones": [
+            "Fangio",
+            "Farina",
+            "Ascari",
+            "Moss"
+        ],
+        "respuesta_correcta": "FARINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cómo se llama el estadio del Real Madrid?",
+        "opciones": [
+            "Camp Nou",
+            "Metropolitano",
+            "Santiago Bernabéu",
+            "Mestalla"
+        ],
+        "respuesta_correcta": "SANTIAGO BERNABÉU",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país inventó el judo?",
+        "opciones": [
+            "China",
+            "Corea",
+            "Japón",
+            "Tailandia"
+        ],
+        "respuesta_correcta": "JAPÓN",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos puntos vale un touchdown?",
+        "opciones": [
+            "3",
+            "6",
+            "7",
+            "1"
+        ],
+        "respuesta_correcta": "6",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué tenista femenina tiene más Grand Slams?",
+        "opciones": [
+            "Serena Williams",
+            "Margaret Court",
+            "Steffi Graf",
+            "Navratilova"
+        ],
+        "respuesta_correcta": "MARGARET COURT",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad se celebraron los JJOO de 1992?",
+        "opciones": [
+            "Madrid",
+            "Sevilla",
+            "Barcelona",
+            "Valencia"
+        ],
+        "respuesta_correcta": "BARCELONA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es 'The G.O.A.T' en gimnasia artística femenina?",
+        "opciones": [
+            "Nadia Comăneci",
+            "Simone Biles",
+            "Beth Tweddle",
+            "Aliya Mustafina"
+        ],
+        "respuesta_correcta": "SIMONE BILES",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué equipo de la NBA tiene más títulos?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Warriors",
+            "Bulls"
+        ],
+        "respuesta_correcta": "CELTICS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué color de jersey lleva el líder del Tour de Francia?",
+        "opciones": [
+            "Rojo",
+            "Verde",
+            "Amarillo",
+            "Blanco"
+        ],
+        "respuesta_correcta": "AMARILLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se compite por la America's Cup?",
+        "opciones": [
+            "Equitación",
+            "Vela",
+            "Polo",
+            "Esgrima"
+        ],
+        "respuesta_correcta": "VELA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuánto dura un combate de boxeo olímpico?",
+        "opciones": [
+            "3 asaltos",
+            "5 asaltos",
+            "10 asaltos",
+            "12 asaltos"
+        ],
+        "respuesta_correcta": "3 ASALTOS",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ostenta el récord de 100m lisos?",
+        "opciones": [
+            "Tyson Gay",
+            "Yohan Blake",
+            "Usain Bolt",
+            "Asafa Powell"
+        ],
+        "respuesta_correcta": "USAIN BOLT",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad juegan los Yankees de béisbol?",
+        "opciones": [
+            "Chicago",
+            "Boston",
+            "Nueva York",
+            "Miami"
+        ],
+        "respuesta_correcta": "NUEVA YORK",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántas piezas tiene un jugador al empezar ajedrez?",
+        "opciones": [
+            "12",
+            "16",
+            "20",
+            "32"
+        ],
+        "respuesta_correcta": "16",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": [
+            "Mónaco",
+            "Vaticano",
+            "San Marino",
+            "Andorra"
+        ],
+        "respuesta_correcta": "VATICANO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué río pasa por Londres?",
+        "opciones": [
+            "Sena",
+            "Danubio",
+            "Támesis",
+            "Rin"
+        ],
+        "respuesta_correcta": "TÁMESIS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "opciones": [
+            "Kioto",
+            "Osaka",
+            "Tokio",
+            "Hiroshima"
+        ],
+        "respuesta_correcta": "TOKIO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país está el Taj Mahal?",
+        "opciones": [
+            "Pakistán",
+            "India",
+            "Bangladesh",
+            "Nepal"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué océano baña las costas de Brasil?",
+        "opciones": [
+            "Pacífico",
+            "Índico",
+            "Ártico",
+            "Atlántico"
+        ],
+        "respuesta_correcta": "ATLÁNTICO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el monte más alto de África?",
+        "opciones": [
+            "Kenia",
+            "Kilimanjaro",
+            "Atlas",
+            "Everest"
+        ],
+        "respuesta_correcta": "KILIMANJARO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país tiene más fronteras terrestres?",
+        "opciones": [
+            "Rusia",
+            "China",
+            "Brasil",
+            "India"
+        ],
+        "respuesta_correcta": "CHINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Suiza?",
+        "opciones": [
+            "Zúrich",
+            "Ginebra",
+            "Basilea",
+            "Berna"
+        ],
+        "respuesta_correcta": "BERNA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es el mayor productor de café?",
+        "opciones": [
+            "Colombia",
+            "Vietnam",
+            "Etiopía",
+            "Brasil"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué mar desemboca el río Nilo?",
+        "opciones": [
+            "Rojo",
+            "Caspio",
+            "Mediterráneo",
+            "Negro"
+        ],
+        "respuesta_correcta": "MEDITERRÁNEO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la isla más grande del mundo?",
+        "opciones": [
+            "Australia",
+            "Groenlandia",
+            "Borneo",
+            "Madagascar"
+        ],
+        "respuesta_correcta": "GROENLANDIA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Noruega?",
+        "opciones": [
+            "Oslo",
+            "Bergen",
+            "Estocolmo",
+            "Copenhague"
+        ],
+        "respuesta_correcta": "OSLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué desierto es el más seco del mundo?",
+        "opciones": [
+            "Sahara",
+            "Gobi",
+            "Atacama",
+            "Kalahari"
+        ],
+        "respuesta_correcta": "ATACAMA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿A qué país pertenecen las Islas Canarias?",
+        "opciones": [
+            "Portugal",
+            "Marruecos",
+            "España",
+            "Francia"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué estrecho separa Asia de América?",
+        "opciones": [
+            "Gibraltar",
+            "Bering",
+            "Magallanes",
+            "Ormuz"
+        ],
+        "respuesta_correcta": "BERING",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Argentina?",
+        "opciones": [
+            "Rosario",
+            "Córdoba",
+            "Buenos Aires",
+            "Mendoza"
+        ],
+        "respuesta_correcta": "BUENOS AIRES",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué continente está el Gran Cañón?",
+        "opciones": [
+            "Asia",
+            "Europa",
+            "América",
+            "África"
+        ],
+        "respuesta_correcta": "AMÉRICA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "opciones": [
+            "India",
+            "China",
+            "EEUU",
+            "Rusia"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué moneda se usa en México?",
+        "opciones": [
+            "Dólar",
+            "Peso",
+            "Bolívar",
+            "Sol"
+        ],
+        "respuesta_correcta": "PESO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Egipto?",
+        "opciones": [
+            "Alejandría",
+            "Luxor",
+            "El Cairo",
+            "Giza"
+        ],
+        "respuesta_correcta": "EL CAIRO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es famoso por sus canales y tulipanes?",
+        "opciones": [
+            "Bélgica",
+            "Dinamarca",
+            "Países Bajos",
+            "Suecia"
+        ],
+        "respuesta_correcta": "PAÍSES BAJOS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país se encuentra la ciudad de Dubái?",
+        "opciones": [
+            "Arabia Saudita",
+            "Qatar",
+            "EAU",
+            "Omán"
+        ],
+        "respuesta_correcta": "EAU",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Portugal?",
+        "opciones": [
+            "Oporto",
+            "Lisboa",
+            "Faro",
+            "Coímbra"
+        ],
+        "respuesta_correcta": "LISBOA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué línea imaginaria divide la Tierra en Norte y Sur?",
+        "opciones": [
+            "Ecuador",
+            "Meridiano",
+            "Trópico",
+            "Círculo Polar"
+        ],
+        "respuesta_correcta": "ECUADOR",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el pico más alto de España?",
+        "opciones": [
+            "Aneto",
+            "Mulhacén",
+            "Teide",
+            "Pico de Europa"
+        ],
+        "respuesta_correcta": "TEIDE",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ha ganado más mundiales de fútbol?",
+        "opciones": [
+            "Alemania",
+            "Italia",
+            "Brasil",
+            "Argentina"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos jugadores hay en un equipo de baloncesto?",
+        "opciones": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "respuesta_correcta": "5",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se usa un 'puck'?",
+        "opciones": [
+            "Golf",
+            "Tenis",
+            "Hockey sobre hielo",
+            "Béisbol"
+        ],
+        "respuesta_correcta": "HOCKEY SOBRE HIELO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el rey de la tierra batida en tenis?",
+        "opciones": [
+            "Federer",
+            "Djokovic",
+            "Nadal",
+            "Alcaraz"
+        ],
+        "respuesta_correcta": "NADAL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cada cuántos años hay Juegos Olímpicos?",
+        "opciones": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "respuesta_correcta": "4",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la distancia de una media maratón?",
+        "opciones": [
+            "10km",
+            "21.097km",
+            "42.195km",
+            "15km"
+        ],
+        "respuesta_correcta": "21.097KM",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué equipo jugaba Michael Jordan?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Bulls",
+            "Knicks"
+        ],
+        "respuesta_correcta": "BULLS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué selección ganó la Eurocopa 2024?",
+        "opciones": [
+            "Inglaterra",
+            "España",
+            "Francia",
+            "Alemania"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el máximo goleador de la Champions?",
+        "opciones": [
+            "Messi",
+            "Lewandowski",
+            "Cristiano Ronaldo",
+            "Raúl"
+        ],
+        "respuesta_correcta": "CRISTIANO RONALDO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte destaca Tiger Woods?",
+        "opciones": [
+            "Tenis",
+            "Golf",
+            "Surf",
+            "F1"
+        ],
+        "respuesta_correcta": "GOLF",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el estilo de natación más rápido?",
+        "opciones": [
+            "Espalda",
+            "Braza",
+            "Crol",
+            "Mariposa"
+        ],
+        "respuesta_correcta": "CROL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ganó el primer mundial de F1 en 1950?",
+        "opciones": [
+            "Fangio",
+            "Farina",
+            "Ascari",
+            "Moss"
+        ],
+        "respuesta_correcta": "FARINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cómo se llama el estadio del Real Madrid?",
+        "opciones": [
+            "Camp Nou",
+            "Metropolitano",
+            "Santiago Bernabéu",
+            "Mestalla"
+        ],
+        "respuesta_correcta": "SANTIAGO BERNABÉU",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país inventó el judo?",
+        "opciones": [
+            "China",
+            "Corea",
+            "Japón",
+            "Tailandia"
+        ],
+        "respuesta_correcta": "JAPÓN",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos puntos vale un touchdown?",
+        "opciones": [
+            "3",
+            "6",
+            "7",
+            "1"
+        ],
+        "respuesta_correcta": "6",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué tenista femenina tiene más Grand Slams?",
+        "opciones": [
+            "Serena Williams",
+            "Margaret Court",
+            "Steffi Graf",
+            "Navratilova"
+        ],
+        "respuesta_correcta": "MARGARET COURT",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad se celebraron los JJOO de 1992?",
+        "opciones": [
+            "Madrid",
+            "Sevilla",
+            "Barcelona",
+            "Valencia"
+        ],
+        "respuesta_correcta": "BARCELONA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es 'The G.O.A.T' en gimnasia artística femenina?",
+        "opciones": [
+            "Nadia Comăneci",
+            "Simone Biles",
+            "Beth Tweddle",
+            "Aliya Mustafina"
+        ],
+        "respuesta_correcta": "SIMONE BILES",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué equipo de la NBA tiene más títulos?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Warriors",
+            "Bulls"
+        ],
+        "respuesta_correcta": "CELTICS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué color de jersey lleva el líder del Tour de Francia?",
+        "opciones": [
+            "Rojo",
+            "Verde",
+            "Amarillo",
+            "Blanco"
+        ],
+        "respuesta_correcta": "AMARILLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se compite por la America's Cup?",
+        "opciones": [
+            "Equitación",
+            "Vela",
+            "Polo",
+            "Esgrima"
+        ],
+        "respuesta_correcta": "VELA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuánto dura un combate de boxeo olímpico?",
+        "opciones": [
+            "3 asaltos",
+            "5 asaltos",
+            "10 asaltos",
+            "12 asaltos"
+        ],
+        "respuesta_correcta": "3 ASALTOS",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ostenta el récord de 100m lisos?",
+        "opciones": [
+            "Tyson Gay",
+            "Yohan Blake",
+            "Usain Bolt",
+            "Asafa Powell"
+        ],
+        "respuesta_correcta": "USAIN BOLT",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad juegan los Yankees de béisbol?",
+        "opciones": [
+            "Chicago",
+            "Boston",
+            "Nueva York",
+            "Miami"
+        ],
+        "respuesta_correcta": "NUEVA YORK",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántas piezas tiene un jugador al empezar ajedrez?",
+        "opciones": [
+            "12",
+            "16",
+            "20",
+            "32"
+        ],
+        "respuesta_correcta": "16",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": [
+            "Mónaco",
+            "Vaticano",
+            "San Marino",
+            "Andorra"
+        ],
+        "respuesta_correcta": "VATICANO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué río pasa por Londres?",
+        "opciones": [
+            "Sena",
+            "Danubio",
+            "Támesis",
+            "Rin"
+        ],
+        "respuesta_correcta": "TÁMESIS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "opciones": [
+            "Kioto",
+            "Osaka",
+            "Tokio",
+            "Hiroshima"
+        ],
+        "respuesta_correcta": "TOKIO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país está el Taj Mahal?",
+        "opciones": [
+            "Pakistán",
+            "India",
+            "Bangladesh",
+            "Nepal"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué océano baña las costas de Brasil?",
+        "opciones": [
+            "Pacífico",
+            "Índico",
+            "Ártico",
+            "Atlántico"
+        ],
+        "respuesta_correcta": "ATLÁNTICO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el monte más alto de África?",
+        "opciones": [
+            "Kenia",
+            "Kilimanjaro",
+            "Atlas",
+            "Everest"
+        ],
+        "respuesta_correcta": "KILIMANJARO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país tiene más fronteras terrestres?",
+        "opciones": [
+            "Rusia",
+            "China",
+            "Brasil",
+            "India"
+        ],
+        "respuesta_correcta": "CHINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Suiza?",
+        "opciones": [
+            "Zúrich",
+            "Ginebra",
+            "Basilea",
+            "Berna"
+        ],
+        "respuesta_correcta": "BERNA",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es el mayor productor de café?",
+        "opciones": [
+            "Colombia",
+            "Vietnam",
+            "Etiopía",
+            "Brasil"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué mar desemboca el río Nilo?",
+        "opciones": [
+            "Rojo",
+            "Caspio",
+            "Mediterráneo",
+            "Negro"
+        ],
+        "respuesta_correcta": "MEDITERRÁNEO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la isla más grande del mundo?",
+        "opciones": [
+            "Australia",
+            "Groenlandia",
+            "Borneo",
+            "Madagascar"
+        ],
+        "respuesta_correcta": "GROENLANDIA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Noruega?",
+        "opciones": [
+            "Oslo",
+            "Bergen",
+            "Estocolmo",
+            "Copenhague"
+        ],
+        "respuesta_correcta": "OSLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué desierto es el más seco del mundo?",
+        "opciones": [
+            "Sahara",
+            "Gobi",
+            "Atacama",
+            "Kalahari"
+        ],
+        "respuesta_correcta": "ATACAMA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿A qué país pertenecen las Islas Canarias?",
+        "opciones": [
+            "Portugal",
+            "Marruecos",
+            "España",
+            "Francia"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué estrecho separa Asia de América?",
+        "opciones": [
+            "Gibraltar",
+            "Bering",
+            "Magallanes",
+            "Ormuz"
+        ],
+        "respuesta_correcta": "BERING",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Argentina?",
+        "opciones": [
+            "Rosario",
+            "Córdoba",
+            "Buenos Aires",
+            "Mendoza"
+        ],
+        "respuesta_correcta": "BUENOS AIRES",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué continente está el Gran Cañón?",
+        "opciones": [
+            "Asia",
+            "Europa",
+            "América",
+            "África"
+        ],
+        "respuesta_correcta": "AMÉRICA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "opciones": [
+            "India",
+            "China",
+            "EEUU",
+            "Rusia"
+        ],
+        "respuesta_correcta": "INDIA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué moneda se usa en México?",
+        "opciones": [
+            "Dólar",
+            "Peso",
+            "Bolívar",
+            "Sol"
+        ],
+        "respuesta_correcta": "PESO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Egipto?",
+        "opciones": [
+            "Alejandría",
+            "Luxor",
+            "El Cairo",
+            "Giza"
+        ],
+        "respuesta_correcta": "EL CAIRO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país es famoso por sus canales y tulipanes?",
+        "opciones": [
+            "Bélgica",
+            "Dinamarca",
+            "Países Bajos",
+            "Suecia"
+        ],
+        "respuesta_correcta": "PAÍSES BAJOS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué país se encuentra la ciudad de Dubái?",
+        "opciones": [
+            "Arabia Saudita",
+            "Qatar",
+            "EAU",
+            "Omán"
+        ],
+        "respuesta_correcta": "EAU",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la capital de Portugal?",
+        "opciones": [
+            "Oporto",
+            "Lisboa",
+            "Faro",
+            "Coímbra"
+        ],
+        "respuesta_correcta": "LISBOA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué línea imaginaria divide la Tierra en Norte y Sur?",
+        "opciones": [
+            "Ecuador",
+            "Meridiano",
+            "Trópico",
+            "Círculo Polar"
+        ],
+        "respuesta_correcta": "ECUADOR",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el pico más alto de España?",
+        "opciones": [
+            "Aneto",
+            "Mulhacén",
+            "Teide",
+            "Pico de Europa"
+        ],
+        "respuesta_correcta": "TEIDE",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ha ganado más mundiales de fútbol?",
+        "opciones": [
+            "Alemania",
+            "Italia",
+            "Brasil",
+            "Argentina"
+        ],
+        "respuesta_correcta": "BRASIL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos jugadores hay en un equipo de baloncesto?",
+        "opciones": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "respuesta_correcta": "5",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se usa un 'puck'?",
+        "opciones": [
+            "Golf",
+            "Tenis",
+            "Hockey sobre hielo",
+            "Béisbol"
+        ],
+        "respuesta_correcta": "HOCKEY SOBRE HIELO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el rey de la tierra batida en tenis?",
+        "opciones": [
+            "Federer",
+            "Djokovic",
+            "Nadal",
+            "Alcaraz"
+        ],
+        "respuesta_correcta": "NADAL",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cada cuántos años hay Juegos Olímpicos?",
+        "opciones": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "respuesta_correcta": "4",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es la distancia de una media maratón?",
+        "opciones": [
+            "10km",
+            "21.097km",
+            "42.195km",
+            "15km"
+        ],
+        "respuesta_correcta": "21.097KM",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué equipo jugaba Michael Jordan?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Bulls",
+            "Knicks"
+        ],
+        "respuesta_correcta": "BULLS",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué selección ganó la Eurocopa 2024?",
+        "opciones": [
+            "Inglaterra",
+            "España",
+            "Francia",
+            "Alemania"
+        ],
+        "respuesta_correcta": "ESPAÑA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es el máximo goleador de la Champions?",
+        "opciones": [
+            "Messi",
+            "Lewandowski",
+            "Cristiano Ronaldo",
+            "Raúl"
+        ],
+        "respuesta_correcta": "CRISTIANO RONALDO",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte destaca Tiger Woods?",
+        "opciones": [
+            "Tenis",
+            "Golf",
+            "Surf",
+            "F1"
+        ],
+        "respuesta_correcta": "GOLF",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuál es el estilo de natación más rápido?",
+        "opciones": [
+            "Espalda",
+            "Braza",
+            "Crol",
+            "Mariposa"
+        ],
+        "respuesta_correcta": "CROL",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ganó el primer mundial de F1 en 1950?",
+        "opciones": [
+            "Fangio",
+            "Farina",
+            "Ascari",
+            "Moss"
+        ],
+        "respuesta_correcta": "FARINA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cómo se llama el estadio del Real Madrid?",
+        "opciones": [
+            "Camp Nou",
+            "Metropolitano",
+            "Santiago Bernabéu",
+            "Mestalla"
+        ],
+        "respuesta_correcta": "SANTIAGO BERNABÉU",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué país inventó el judo?",
+        "opciones": [
+            "China",
+            "Corea",
+            "Japón",
+            "Tailandia"
+        ],
+        "respuesta_correcta": "JAPÓN",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántos puntos vale un touchdown?",
+        "opciones": [
+            "3",
+            "6",
+            "7",
+            "1"
+        ],
+        "respuesta_correcta": "6",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué tenista femenina tiene más Grand Slams?",
+        "opciones": [
+            "Serena Williams",
+            "Margaret Court",
+            "Steffi Graf",
+            "Navratilova"
+        ],
+        "respuesta_correcta": "MARGARET COURT",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad se celebraron los JJOO de 1992?",
+        "opciones": [
+            "Madrid",
+            "Sevilla",
+            "Barcelona",
+            "Valencia"
+        ],
+        "respuesta_correcta": "BARCELONA",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién es 'The G.O.A.T' en gimnasia artística femenina?",
+        "opciones": [
+            "Nadia Comăneci",
+            "Simone Biles",
+            "Beth Tweddle",
+            "Aliya Mustafina"
+        ],
+        "respuesta_correcta": "SIMONE BILES",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué equipo de la NBA tiene más títulos?",
+        "opciones": [
+            "Lakers",
+            "Celtics",
+            "Warriors",
+            "Bulls"
+        ],
+        "respuesta_correcta": "CELTICS",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Qué color de jersey lleva el líder del Tour de Francia?",
+        "opciones": [
+            "Rojo",
+            "Verde",
+            "Amarillo",
+            "Blanco"
+        ],
+        "respuesta_correcta": "AMARILLO",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué deporte se compite por la America's Cup?",
+        "opciones": [
+            "Equitación",
+            "Vela",
+            "Polo",
+            "Esgrima"
+        ],
+        "respuesta_correcta": "VELA",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuánto dura un combate de boxeo olímpico?",
+        "opciones": [
+            "3 asaltos",
+            "5 asaltos",
+            "10 asaltos",
+            "12 asaltos"
+        ],
+        "respuesta_correcta": "3 ASALTOS",
+        "dificultad": "Alta",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Quién ostenta el récord de 100m lisos?",
+        "opciones": [
+            "Tyson Gay",
+            "Yohan Blake",
+            "Usain Bolt",
+            "Asafa Powell"
+        ],
+        "respuesta_correcta": "USAIN BOLT",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿En qué ciudad juegan los Yankees de béisbol?",
+        "opciones": [
+            "Chicago",
+            "Boston",
+            "Nueva York",
+            "Miami"
+        ],
+        "respuesta_correcta": "NUEVA YORK",
+        "dificultad": "Baja",
+        "fecha_creacion": "2025-12-23"
+    },
+    {
+        "fuente_origen": "AWS RDS (Historia)",
+        "pregunta": "¿Cuántas piezas tiene un jugador al empezar ajedrez?",
+        "opciones": [
+            "12",
+            "16",
+            "20",
+            "32"
+        ],
+        "respuesta_correcta": "16",
+        "dificultad": "Media",
+        "fecha_creacion": "2025-12-23"
+    }
+]
